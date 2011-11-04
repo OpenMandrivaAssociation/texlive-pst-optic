@@ -55,6 +55,7 @@ diagrams. The package requires pstricks later than version
 %doc %{_texmfdistdir}/doc/generic/pst-optic/pst-optic-doc.tex
 #- source
 %doc %{_texmfdistdir}/source/generic/pst-optic/Makefile
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -65,3 +66,5 @@ diagrams. The package requires pstricks later than version
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
