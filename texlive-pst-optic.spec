@@ -1,6 +1,6 @@
 Name:		texlive-pst-optic
 Version:	62977
-Release:	1
+Release:	2
 Summary:	Drawing optics diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-optic
