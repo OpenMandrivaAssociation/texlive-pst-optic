@@ -1,5 +1,5 @@
 Name:		texlive-pst-optic
-Version:	71455
+Version:	71545
 Release:	1
 Summary:	Drawing optics diagrams
 Group:		Publishing
