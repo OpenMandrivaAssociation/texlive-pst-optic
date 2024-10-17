@@ -3,7 +3,7 @@ Version:	71545
 Release:	1
 Summary:	Drawing optics diagrams
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-optic
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-optic
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-optic.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-optic.doc.r%{version}.tar.xz
